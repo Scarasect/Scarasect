@@ -2,11 +2,7 @@
 
 > I'm Scara, young programmer. I started programming at the age of 13 I'm now 16.
 
-
-
-
-
-- 🔭 I'm a Javascript Developer learning c# right now!
+- 🔭 I'm a Javascript Developer learning interested in becoming a software developer. 
 - Join my Discord server [Policult](https://discord.gg/B6H5CMN)
 - 💬 Ask me about anything about programming.
 - 😄 Pronouns: he/him
