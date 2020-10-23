@@ -8,7 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love reading Manga,Webtoon and Light Novels ✨
 - 💬 Discord: Scara#0888
-❤ Repositories I like:
+- ❤ Repositories I like:
 <div>
 	<p align="center">
     <a href="https://github.com/Scarasect/pro-map">
