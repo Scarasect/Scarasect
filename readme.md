@@ -21,7 +21,7 @@
 
 <div>
 	<p align="center">
-			<img src="https://github-readme-stats.vercel.app/api?username=Scarasect&show_icons=true&theme=Gradient" alt="Stats">
+			<img src="https://github-readme-stats.vercel.app/api?username=Scarasect&show_icons=true&theme=vue-dark" alt="Stats">
 		</a>
 	</p>
 </div>
