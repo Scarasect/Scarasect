@@ -8,6 +8,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love reading Manga,Webtoon and Light Novels ✨
 - 💬 Discord: Scara#0888
+---
 - ❤ Repositories I like:
 <div>
 	<p align="center">
@@ -17,11 +18,11 @@
 	</p>
 </div>
 
-- 📈 My stats: 
+---
 
 <div>
 	<p align="center">
-			<img src="https://github-readme-stats.vercel.app/api?username=Scarasect&show_icons=true&theme=vue-dark" alt="Stats">
+			<img src="https://github-readme-stats.vercel.app/api?username=Scarasect&show_icons=true&theme="material" alt="Stats">
 		</a>
 	</p>
 </div>
