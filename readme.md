@@ -1,6 +1,8 @@
-# Helle there welcome to my page 👋
+<p align="center">Hello there welcome to my page 👋</P>
 
-> I'm Scara, young programmer. I started programming at the age of 13 I'm now 16.
+---
+ I'm Scara, young programmer. I started programming at the age of 13 I'm now 16
+ ---
 
 - 🔭 I'm a Javascript Developer learning interested in becoming a software developer. 
 - Join my Discord server [Policult](https://discord.gg/B6H5CMN)
