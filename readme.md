@@ -9,7 +9,8 @@
 - ⚡ Fun fact: I love reading Manga,Webtoon and Light Novels ✨
 - 💬 Discord: Scara#0888
 ---
-- ❤ Repositories I like:
+- 
+<p align="center">**❤ Repositories I like**</p>
 <div>
 	<p align="center">
     <a href="https://github.com/Scarasect/pro-map">
