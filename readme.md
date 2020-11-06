@@ -1,7 +1,9 @@
 <p align="center">Hello there welcome to my page 👋</P>
 
 ---
+
  I'm Scara, young programmer. I started programming at the age of 13 I'm now 16
+ 
  ---
 
 - 🔭 I'm a Javascript Developer learning interested in becoming a software developer. 
