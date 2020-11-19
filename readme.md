@@ -11,7 +11,7 @@
 - 💬 Ask me about anything about programming.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love reading Manga, Webtoon and Light Novels ✨
-- 💬 Discord: Scara#0888
+- 💬 Discord: Scara#4825
 ---
 
 **<p align="center">Stats 📈</p>**
